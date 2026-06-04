@@ -8,7 +8,7 @@ This repository contains lecture materials, datasets, coding tutorials, and proj
 
 1. Clone or download this repository.
 2. Install R and RStudio.
-3. Open the materials in the `lectures/` folder.
+3. Open the materials in the root folder.
 4. Verify that datasets in the `data/` folder are accessible.
 5. Complete **Lecture 0: Introduction to R** before the start of camp.
 
@@ -34,11 +34,10 @@ Data-Science-UAB-Summer-Camp/
 │
 ├── README.md
 │
-├── lectures/
-│   ├── Lecture0.ipynb
-│   ├── Lecture1.ipynb
-│   ├── Lecture2.ipynb
-│   └── ...
+├── Lecture0.ipynb
+├── Lecture1.ipynb
+├── Lecture2.ipynb
+├── ...
 │
 ├── data/
 │   ├── dataset1.csv
